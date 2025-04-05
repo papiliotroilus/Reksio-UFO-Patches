@@ -4,6 +4,7 @@ Collection of patches for Reksio and the UFO which reimplement some unused conte
 - *21_0_Warsztat/**s21_0_Warsztat.cnv*** : Implements unused Narrator line introducing Kretes after finishing construction (***narr21_0_3.wav***)
 - *75_port/**S75_PORT.cnv*** | ***kuraprawa.seq*** | ***kuralewa.seq*** : Changes sequence of alien hens' idle dialogues to be logically ordered rather than random, and plays the dialogue upon entry
 - *Droga/**s71_droga.cnv*** : Changes behaviour when caught by alien hens to skip directly to cutscene instead of redundantly playing voice line a second time in the minigame screen
+- *Pakman/**s62_pakman.cnv*** : Re-implements a unused line by Narrator played when a character approaches the locked gate to the Ferment village holding no key (***narr62_0_2.wav***)
 - *s1_0_intro1/**s1_0_intro1.cnv*** : Adjusts timing at the end of the first intro slide to match the music better
 - *s42_1_skladzik/**s42_1_skladzik.cnv*** : Reimplements unused Narrator line presenting the process of fixing the spaceship (***narr43_2_1.wav***)
 - *s43_lrbin/**s43_lrbin.cnv*** :
