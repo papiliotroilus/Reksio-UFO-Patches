@@ -18,6 +18,7 @@ Collection of patches for Reksio and the UFO which reimplement some unused conte
   - Enables cancelling out of the other bindor's self-presentation by clicking on other interactibles
   - Reimplements unused thank you line from Julitta's second head when talking to her after delivering the letter (jul52_0_12.wav)
 - s56_0_Wioska/ROMAN56.SEQ : Reimplements unused Roman line about not hearing Juliita (rom52_0_1.wav)
+- s65_Zamek/s65_Zamek.cnv : Fixes the initial cutscene (restores the fade-in effect, makes dust visible from the start and hides Reksio and Kretes sprites before they enter the scene)
 - Przygoda.cnv : Reimplements missing variable (FOTKASEEN) necessary for behaviour of photo presentation in s43_lrbin/s43_lrbin.cnv mentioned above
 
 To install, simply copy-paste the desired modification into the game's directory.
